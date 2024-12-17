@@ -1,0 +1,8 @@
+#conteneur-texte{
+    width: 85%;
+    margin: 20px auto 0 auto;
+}
+
+.navbar{ /*Pour ciblé une "class" on met un "."*/
+    background-color: lightblue!important;
+}
